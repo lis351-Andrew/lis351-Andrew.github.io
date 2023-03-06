@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head> 
+<title>Page Title</title>
+
+	<!--- Information you don't want to display to users --> 
+
+</head>
+
+	<body>
+		<p><a href="https://www.reddit.com/r/hiphopheads/">Visit W3Schools.com!</a></p>
+	</body>
+
+</html>
