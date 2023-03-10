@@ -2,12 +2,12 @@
 
 * {
 	font-family: Calibri, sans-serif;
-	color: #f5eec2;
+	color: #ffffff;
 	text-align: center;}
 body {
 	width: 840px;
 	margin: 15px auto;
-	background-color: #blanchedalmond;}
+	background-color: #1a0000;}
 #content {
 	overflow: auto;
 	height: 100%;}
@@ -15,11 +15,11 @@ body {
 	float: left;
 	margin: 10px;}
 nav {
-	background-color: #blanchedalmond;
+	background-color: #1a0000;
 	padding: 5px;}
 main {
-	background-color: #blanchedalmond;}
+	background-color: #1a0000;}
 article {
-background-color: #blanchedalmond;
+background-color: #1a0000;
 width: 350px;
 }
