@@ -8,12 +8,6 @@ body {
 	width: 840px;
 	margin: 15px auto;
 	background-color: #1a0000;}
-#content {
-	overflow: auto;
-	height: 100%;}
-.column1, .column2, .column3 {
-	float: left;
-	margin: 10px;}
 nav {
 	background-color: #1a0000;
 	padding: 5px;}
