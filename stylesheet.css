@@ -1,0 +1,25 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Calibri, sans-serif;
+	color: #f5eec2;
+	text-align: center;}
+body {
+	width: 840px;
+	margin: 15px auto;
+	background-color: #blanchedalmond;}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
+nav {
+	background-color: #blanchedalmond;
+	padding: 5px;}
+main {
+	background-color: #blanchedalmond;}
+article {
+background-color: #blanchedalmond;
+width: 350px;
+}
